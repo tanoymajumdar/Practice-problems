@@ -1,2 +1,2 @@
 # Weblog-analysis
-Using Shell script to analayse weblogs
+A list of exercises part of the coursework. Involves Shell script, C++ and C.
